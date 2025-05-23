@@ -1,0 +1,8 @@
+05:38:06 | INFO  | starting validation...
+05:38:06 | LOG   | pyext: busy
+05:38:06 | LOG   | pyext: success
+05:38:06 | LOG   | stdout:
+05:38:06 | LOG   | stderr:
+05:38:06 | LOG   | git: success
+05:38:06 | WARN  | pyproj: failed
+05:38:06 | WARN  | Current project does not appear to be a GDSFactory+ project.

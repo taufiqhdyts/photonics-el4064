@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report-database>
+ <description/>
+ <original-file/>
+ <generator/>
+ <top-cell/>
+ <tags>
+ </tags>
+ <categories>
+  <category>
+   <name>Manhattan Routing Collisions</name>
+   <description/>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>WG (1/0)</name>
+   <description/>
+   <categories>
+    <category>
+     <name>RoutingErrors</name>
+     <description/>
+     <categories>
+     </categories>
+    </category>
+   </categories>
+  </category>
+ </categories>
+ <cells>
+  <cell>
+   <name>Unnamed_88</name>
+   <variant/>
+   <layout-name/>
+   <references>
+   </references>
+  </cell>
+ </cells>
+ <items>
+  <item>
+   <tags/>
+   <category>'WG (1/0)'.RoutingErrors</category>
+   <cell>Unnamed_88</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>text: 'Route instances overlapping with other instances'</value>
+    <value>polygon: (-539.45,-60.73;-539.556,-60.716;-539.696,-60.695;-539.836,-60.673;-539.95,-60.653;-539.95,-60.144;-539.887,-60.156;-539.753,-60.179;-539.62,-60.201;-539.485,-60.221;-539.45,-60.226)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'WG (1/0)'.RoutingErrors</category>
+   <cell>Unnamed_88</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>text: 'Route instances overlapping with other instances'</value>
+    <value>polygon: (-534.602,121.625;-534.583,121.631;-534.446,121.672;-534.309,121.711;-534.171,121.747;-534.032,121.782;-533.894,121.814;-533.755,121.844;-533.615,121.872;-533.476,121.898;-533.336,121.923;-533.196,121.945;-533.056,121.966;-532.916,121.985;-532.775,122.003;-532.635,122.019;-532.495,122.033;-532.354,122.046;-532.214,122.058;-532.073,122.069;-531.933,122.078;-531.653,122.094;-531.512,122.1;-531.232,122.11;-531.092,122.114;-530.953,122.117;-530.673,122.121;-530.534,122.123;-530.395,122.124;-530.256,122.124;-530.116,122.125;-231,122.125;-231,121.625)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'WG (1/0)'.RoutingErrors</category>
+   <cell>Unnamed_88</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>text: 'Route instances overlapping with other instances'</value>
+    <value>polygon: (-50,121.625;-50,122.125;212.716,122.125;212.856,122.124;212.995,122.124;213.134,122.123;213.273,122.121;213.553,122.117;213.692,122.114;213.832,122.11;214.112,122.1;214.253,122.094;214.533,122.078;214.673,122.069;214.814,122.058;214.954,122.046;215.095,122.033;215.235,122.019;215.375,122.003;215.516,121.985;215.656,121.966;215.796,121.945;215.936,121.923;216.076,121.898;216.215,121.872;216.355,121.844;216.494,121.814;216.632,121.782;216.771,121.747;216.909,121.711;217.046,121.672;217.183,121.631;217.202,121.625)</value>
+   </values>
+  </item>
+ </items>
+</report-database>
